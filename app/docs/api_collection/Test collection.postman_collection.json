@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "3d6a8d6f-93e0-484b-8f88-3a36e7933701",
+		"name": "Test collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "13079023",
+		"_collection_link": "https://www.postman.com/speeding-robot-482641/workspace/telapp/collection/13079023-3d6a8d6f-93e0-484b-8f88-3a36e7933701?action=share&source=collection_link&creator=13079023"
+	},
+	"item": [
+		{
+			"name": "Emplyee list",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Auth Token",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
